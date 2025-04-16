@@ -92,7 +92,7 @@ local_users:
 - name: arista
   privilege: 15
   role: network-admin
-  sha512_password: $6$arista$Elck9yqy0cSJiaOBrvPmALe2lQfchqNRfmJDArf4EFDvCJsYl3fXCYNXODyO3mZcaeA1zacj7zqLB5Eest2qg/
+  sha512_password: $6$arista$RArU/OEQzi81GpjRc8tQz6nDYbOoQGCq02vnj4AeNZrW6wSGSN6dyDw1/DzCDi5HvsTWHXFmASMPSy7iJED.T/
   ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCOOQRFZuSGbthCqmrG9D14SSLggKumJn+t5fJg/M1dqTmryx+0UQP5++pghukUixphMlL5aUpOuTYYEYD8HLikQOG2mi4MN8dAHbOfL+8lW+WceYmN/koHeSnIHvRiwB3VqyOqDJoH+VBahNkkVbPcuA1z/NyO4QdIqXREh7vpHSuil+LIFjASH2uhw/Q7jCsl8HKtQNi3+e8iOd/mdvJxfLDya/fQIvcwTsor2qWL5ldf5mpss0NKHfwFgmhH+yMfrqiD1nBZb+NSlFHMkv8Udbs36e5seYj/wZUTz0kzzVMepURmoRnm1CHBajCpI9w5W5SDkjSU8xhs9qV5werj
     arista@toronto-workshop-26-9285da02-eos
 loopback_interfaces:
